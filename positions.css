@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html,body{
+    height: 100%;
+    width: 100%;
+    background-size: cover;
+}
+
+#box{
+
+   position: relative;
+   
+    width: 200px;
+    height: 200px;
+    background-color: #e80000;
+}
+
+#cube{
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    
+}
